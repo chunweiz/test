@@ -1,0 +1,26 @@
+{
+  "run": [
+    {
+      "filePath": "/nw.epm.refapps.ext.shop/webapp/test.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [
+        {
+          "source": "RefAppsBackend",
+          "destinations": "RefAppsBackend"
+        }
+      ],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4302234,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
